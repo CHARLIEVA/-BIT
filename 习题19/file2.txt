@@ -1,0 +1,5 @@
+0	Abc
+1	Abcdefghi
+2	Abcde
+总计:3行
+最长一行的长度为：9字节
